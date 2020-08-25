@@ -1,0 +1,73 @@
+.background {
+    background-image: url(s.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color:seashell;
+}
+
+.layer {
+    background-color: rgba(11,34,77,0.8);
+}
+
+#title {
+    text-align: center;
+    font-size: 60px;
+}
+
+#description {
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+
+#survey-form {
+     padding: 50px 300px 50px 100px;
+     font-family: sans-serif;
+     background-color: rgba(5, 21, 51, 0.8);
+     width: 300px;
+     margin-left: 300px;
+     
+}
+
+#name-label {
+    width: 500px;
+}
+
+#email-label {
+    width: 500px;
+}
+
+#age-label {
+    width: 500px;
+}
+
+#number-label {
+    width: 500px;
+}
+
+#role-sel {
+    width: 500px;
+}
+
+#fav-sel {
+    width: 500px;
+}
+
+#text {
+    width: 500px;
+}
+
+#comment {
+    padding-top: 30px;
+}
+
+button {
+    width: 500px;
+    height: 50px;
+    background-color: rgb(20, 236, 20);
+    font-size: 1.5em;
+}
+
+#layer {
+    background-color: rgba(11,34,77,0.8);
+}
